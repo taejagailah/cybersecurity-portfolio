@@ -4,7 +4,7 @@ email: taeja.moffitt@gmail.com
 url: https://taejagailah.github.io/cybersecurity-portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
+skills: "Cybersecurity - Analyst - Ethical Hacker - GRC Analyst"
 meta_author: Taeja Gailah
 
 # Google webmaster tools
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Taeja Gailah
-  location: Location
+  location: Temple Hills, Maryland
   social: Around the Web
   credits: Credits
 
