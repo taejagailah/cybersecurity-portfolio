@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-title: Python Projects
+title: Python Automation
 img: python.png
 alt: image-alt
 
