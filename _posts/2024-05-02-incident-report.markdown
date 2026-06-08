@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-title: Incident Report
+title: Python Projects
 img: python.png
 alt: image-alt
 
