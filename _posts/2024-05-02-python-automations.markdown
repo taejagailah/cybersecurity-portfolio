@@ -8,5 +8,5 @@ alt: image-alt
 # Reminder: Update this link with your own project link
 project-url: Project Link coming soon 
 
-description: Practiced opening and parsing log files, debugging Python code, and automating security tasks in order to streamline data analysis and maintain alignment with industry best practices for security operations.
+description: Practiced core Python programming concepts including variables, functions, modules, string and list manipulation, and file parsing in order to automate security tasks and streamline log analysis in alignment with industry best practices for security operations.
 ---
